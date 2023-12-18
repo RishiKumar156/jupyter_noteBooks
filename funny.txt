@@ -1,0 +1,5 @@
+frank : "it was a terible jok"
+professor : "What are you talking about"
+frank : "Youre Joke"
+professor : "I havn't done any joke" 
+frank : "Yes that's the joke" 

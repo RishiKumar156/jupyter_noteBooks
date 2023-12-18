@@ -1,0 +1,5 @@
+frank : "it was a terible jok"
+ count 7professor : "What are you talking about"
+ count 7frank : "Youre Joke"
+ count 4professor : "I havn't done any joke" 
+ count 8frank : "Yes that's the joke"  count 7
