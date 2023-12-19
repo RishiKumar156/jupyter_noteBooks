@@ -14,3 +14,11 @@ class LinkedsList:
         while temp.next:
             temp = temp.next 
         temp.next = Node(value)
+    
+
+def reverse_ll(head):
+    prev = None
+    while True:
+        next_node = head.next 
+        prev = head.next
+        head = next_node
