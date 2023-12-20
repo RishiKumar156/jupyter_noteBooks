@@ -1,0 +1,2 @@
+
+To create the table out of selected data ~ commond :- (ctrl + T)
