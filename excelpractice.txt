@@ -1,3 +1,7 @@
 
 To create the table out of selected data ~ commond :- (ctrl + T)
-Remove the space just use the =TRIM([@thecolum~data~we wanna update])
+Remove the space just use the =TRIM([@thecolum~data~we wanna update]) (its not cerating the duplicate value so we gotta save them)
+ctrl + shift downArray to ( Select the entier column)
+alt + h + vv ( to paste them permanently)
+
+select the column name ( for eg : i  nad hit ctlr  and - )
