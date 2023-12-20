@@ -1,2 +1,3 @@
 
 To create the table out of selected data ~ commond :- (ctrl + T)
+Remove the space just use the =TRIM([@thecolum~data~we wanna update])
