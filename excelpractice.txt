@@ -5,3 +5,5 @@ ctrl + shift downArray to ( Select the entier column)
 alt + h + vv ( to paste them permanently)
 
 select the column name ( for eg : i  nad hit ctlr  and - )
+
+to tound the value from 0.00 to 0 use ( =roundup([@columname], (specified valu ein our case we used 0)))
